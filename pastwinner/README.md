@@ -11,10 +11,6 @@ Note for myself:
 
 link updated
 
-↓DONE↓
-18-19
-19-20
-20-21
-21-22
+
 
 

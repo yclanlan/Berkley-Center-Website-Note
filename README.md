@@ -6,9 +6,7 @@ Go to the NavBar folder or this <a src="https://yclanlan.github.io/Berkley-Cente
 <hr/>
 
 ## 2. The content about Past Winner !
-Go to the pastwinner folder or this 
-
-<a src="https://yclanlan.github.io/Berkley-Center-Website-Note/pastwinner/">[link](https://yclanlan.github.io/Berkley-Center-Website-Note/pastwinner/)</a>
+Go to the pastwinner folder or this <a src="https://yclanlan.github.io/Berkley-Center-Website-Note/pastwinner/">[link](https://yclanlan.github.io/Berkley-Center-Website-Note/pastwinner/)</a>
 
 I tried to transfer the content into seperately pages so we can put in into the tabs in the Elementers component.
 

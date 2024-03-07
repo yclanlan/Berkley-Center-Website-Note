@@ -7,9 +7,6 @@ the contents in the tab component
 
 
 
-Note for myself:
-
-link updated
 
 
 

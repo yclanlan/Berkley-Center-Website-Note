@@ -1,6 +1,6 @@
-## Structure of Navigation bar
+# Structure of Navigation bar
 
-### blue part and red part are controlled by different sections!
+## blue part and red part are controlled by different sections!
 
 I personally called the blue part main menu, and the red part sub menu.
 
